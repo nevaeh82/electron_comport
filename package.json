@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:johnny-five-io/electron-serialport.git"
+    "url": "https://github.com/nevaeh82/electron_comport.git"
   },
   "keywords": [
     "Electron",
